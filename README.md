@@ -2,6 +2,10 @@
 Rainfall prediction for Gujarat, India (2011–2024) using weather data from NASA POWER API and machine learning models.
 
 # ☔ Rainfall Prediction in Gujarat, India (2011–2024)
+![Dashboard](dashboard_preview.png)
+
+> 📊 *Interactive dashboard built in Power BI showcasing rainfall trends, humidity comparison, and rainfall category distribution.*
+
 
 This project builds a Machine Learning model to **predict daily rainfall occurrence** (`rain = yes/no`) using historical weather data sourced from NASA’s POWER API. It demonstrates a complete end-to-end data science workflow, from API data collection to feature engineering, model building, evaluation, and interpretation.
 
