@@ -74,10 +74,11 @@ This project builds a Machine Learning model to **predict daily rainfall occurre
 
 ```
 rainfall-classification-nasa-gujarat/
-├── rainfall_prediction_final.ipynb        # 📓 Complete pipeline: Fetching → EDA → Modeling → Evaluation
-├── Gujarat_Rainfall_Dashboard.pdf         # 📊 Exported Power BI dashboard (for quick viewing)
-├── Gujarat Rainfall Dashboard.pbix        # 🧩 Editable Power BI file (source dashboard)
-├── README.md                              # 📘 Project summary, usage, and insights
+├── 00_README.md # ✅ Overview, insights, setup
+├── 01_rainfall_prediction_final.ipynb # 📓 Complete pipeline: Fetch → EDA → Modeling
+├── 02_Gujarat_Rainfall_Dashboard.pdf # 📊 PDF snapshot of Power BI dashboard
+├── 03_Gujarat Rainfall Dashboard.pbix # 🧩 Power BI source file (editable)
+├── dashboard_preview.png # 📷 Dashboard image preview for README
 
 ```
 
