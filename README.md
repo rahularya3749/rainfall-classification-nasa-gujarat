@@ -67,6 +67,11 @@ This project builds a Machine Learning model to **predict daily rainfall occurre
 > The model shows excellent discrimination ability, strong recall for rainy days, and reliable precision for dry days. It is well-suited for real-world rainfall prediction tasks.
 
 ---
+rainfall-classification-nasa-gujarat/
+├── rainfall_prediction_final.ipynb
+├── Gujarat_Rainfall_Dashboard.pd
+└── README.md
+---
 
 ## 🌦️ Real-World Applications
 
