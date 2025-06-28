@@ -91,7 +91,7 @@ rainfall-classification-nasa-gujarat/
 
 **Rahul Arya**  
 Aspiring Data Scientist | B.Sc. Physics | IBM & Stanford ML Certified  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) • [GitHub](https://github.com/your-profile)
+🔗 [LinkedIn](https://www.linkedin.com/in/rahul-arya--1810zoro) • [GitHub](https://github.com/rahularya3749)
 
 ---
 
